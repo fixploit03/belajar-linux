@@ -1,8 +1,3 @@
-Siap Fixploit03! 🔥
-Berikut ini **roadmap / playlist super lengkap** untuk **belajar perintah-perintah Linux dari 0 sampai mahir**, dirancang khusus buat kamu yang ingin benar-benar paham **cara kerja Linux di terminal (CLI)** — bukan sekadar hafal, tapi *ngerti logika dan penerapannya* 💪
-
----
-
 # 🧭 **Roadmap Belajar Perintah Linux (Command Line Mastery)**
 
 > 📍 Level: Pemula → Menengah → Mahir
