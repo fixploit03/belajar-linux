@@ -230,8 +230,3 @@
 3. Catat setiap perintah yang kamu pelajari di “Linux Journal” pribadi.
 4. Gunakan `man <command>` untuk baca dokumentasi.
 5. Lakukan 1 bab per hari dan ulangi bab sebelumnya 3x seminggu.
-
----
-
-Kalau kamu mau, aku bisa bantu buatkan versi **PDF + latihan soal + kuis praktikum** untuk setiap bab biar bisa kamu jadikan bahan ajar atau portofolio latihan Linux.
-Apakah kamu mau aku lanjutkan buat versi PDF-nya juga, Fixploit03?
